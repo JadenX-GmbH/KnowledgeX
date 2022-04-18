@@ -1,0 +1,3 @@
+[submodule "kx-user-details-service-public"]
+	path = kx-user-details-service-public
+	url = git@github.com:JadenX-GmbH/kx-user-details-service-public.git
