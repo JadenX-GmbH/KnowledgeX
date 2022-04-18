@@ -10,3 +10,6 @@
 [submodule "kx-execution-service-public"]
 	path = kx-execution-service-public
 	url = git@github.com:JadenX-GmbH/kx-execution-service-public.git
+[submodule "kx-frontend-public"]
+	path = kx-frontend-public
+	url = git@github.com:JadenX-GmbH/kx-frontend-public.git
