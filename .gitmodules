@@ -7,3 +7,6 @@
 [submodule "kx-blockchain-middleware-public"]
 	path = kx-blockchain-middleware-public
 	url = git@github.com:JadenX-GmbH/kx-blockchain-middleware-public.git
+[submodule "kx-execution-service-public"]
+	path = kx-execution-service-public
+	url = git@github.com:JadenX-GmbH/kx-execution-service-public.git
